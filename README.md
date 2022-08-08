@@ -10,17 +10,22 @@
 
 # Test Case Örnekleri:
 
-1-![tc1](https://user-images.githubusercontent.com/84309668/183385297-025ffdb6-6115-4c86-a3be-148b194c4413.PNG)
+1-
+![tc1](https://user-images.githubusercontent.com/84309668/183385297-025ffdb6-6115-4c86-a3be-148b194c4413.PNG)
 
 
-2-![tc2](https://user-images.githubusercontent.com/84309668/183385319-c0e476cc-9895-4815-8409-be68ebd63cfe.PNG)
+2-
+![tc2](https://user-images.githubusercontent.com/84309668/183385319-c0e476cc-9895-4815-8409-be68ebd63cfe.PNG)
 
 
-3-![tc3](https://user-images.githubusercontent.com/84309668/183385335-62a4bbc3-6861-4c93-b947-25532d973c73.PNG)
+3-
+![tc3](https://user-images.githubusercontent.com/84309668/183385335-62a4bbc3-6861-4c93-b947-25532d973c73.PNG)
 
 
-4-![tc4](https://user-images.githubusercontent.com/84309668/183385354-20b8a532-0ad8-447a-a9bd-9f237205b5c1.PNG)
+4-
+![tc4](https://user-images.githubusercontent.com/84309668/183385354-20b8a532-0ad8-447a-a9bd-9f237205b5c1.PNG)
 
 
-5-![tc5](https://user-images.githubusercontent.com/84309668/183385368-59b9e64f-e7e3-4918-9f60-ecb50c8ea2f6.PNG)
+5-
+![tc5](https://user-images.githubusercontent.com/84309668/183385368-59b9e64f-e7e3-4918-9f60-ecb50c8ea2f6.PNG)
 
